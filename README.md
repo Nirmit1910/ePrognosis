@@ -14,7 +14,7 @@ E-Prognosis health application has been created with a vision of helping and ass
 
 ## Demo
 
-Video Demo - https://www.youtube.com/watch?v=Sl_U9V-xPqo
+Video Demo - https://youtu.be/0o7xMlYWKeU
 
 ## Tech Stack
 
