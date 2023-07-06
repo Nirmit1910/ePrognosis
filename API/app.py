@@ -6,8 +6,10 @@ import numpy as np
 from flask import Flask, jsonify,request
 import xgboost
 from sklearn.preprocessing import StandardScaler
+from flask_cors import CORS
 
 app=Flask(__name__)
+CORS(app)
 
 @app.route('/')
 def index():
